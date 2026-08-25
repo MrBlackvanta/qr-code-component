@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/MrBlackvanta/qr-code-component-v2)
-- Live Site URL: [Cloudflare](https://qr-code-component-v2.abdelrhman-ahmed8881.workers.dev)
+- Solution URL: [GitHub](https://github.com/MrBlackvanta/qr-code-component)
+- Live Site URL: [Cloudflare](https://qr-code-component.abdelrhman-ahmed8881.workers.dev)
 - Mirror: [Netlify](https://vanta-qr-code-component.netlify.app)
 
 ## My process
