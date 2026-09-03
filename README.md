@@ -10,14 +10,10 @@ challenge on Frontend Mentor.
 
 ## Built with
 
-- React and Vite
+- React
+- Vite
 - TypeScript
 - Tailwind CSS
-
-## Notes
-
-A single presentational card component, centred on the page with grid. Nothing here
-needs state, so nothing has any.
 
 ## Author
 
